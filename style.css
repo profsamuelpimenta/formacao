@@ -9,5 +9,6 @@ body{
     width: 95%;
     height: auto;
     padding: 15px;
-    box-shadow: 2px 4px rgba(rgb(185, 63, 63), rgb(36, 173, 36), rgb(42, 42, 68), alpha);
+    box-shadow: 2px 4px rgb(185, 63, 63);
+    background-color: #ffffff;
 }
