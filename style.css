@@ -12,3 +12,20 @@ body{
     box-shadow: 2px 4px rgb(185, 63, 63);
     background-color: #ffffff;
 }
+.cabecalho{
+    height: 20%;
+    width: 95%;
+    margin: 5px;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    border-bottom: #b49a9a;
+}
+.titulo{
+    text-transform: uppercase;
+    text-align:center;
+    font-size: 24px;
+    text-shadow: #131212;
+    color: aqua;
+    
+}
